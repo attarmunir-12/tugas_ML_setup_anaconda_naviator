@@ -1,0 +1,400 @@
+
+(base) C:\Users\Attar Ulfi>conda activate base
+
+(base) C:\Users\Attar Ulfi>conda search opencv
+3 channel Terms of Service accepted
+Loading channels: done
+# Name                       Version           Build  Channel
+opencv                         3.3.1  py35h20b85fd_1  pkgs/main
+opencv                         3.3.1  py36h20b85fd_1  pkgs/main
+opencv                         3.4.1  py35h40b0b35_3  pkgs/main
+opencv                         3.4.1  py35h6fd60c2_3  pkgs/main
+opencv                         3.4.1  py36h40b0b35_3  pkgs/main
+opencv                         3.4.1  py36h6fd60c2_3  pkgs/main
+opencv                         3.4.1  py37h40b0b35_3  pkgs/main
+opencv                         3.4.1  py37h6fd60c2_3  pkgs/main
+opencv                         3.4.2  py35h40b0b35_0  pkgs/main
+opencv                         3.4.2  py36h40b0b35_0  pkgs/main
+opencv                         3.4.2  py36h6fd60c2_0  pkgs/main
+opencv                         3.4.2  py37h40b0b35_0  pkgs/main
+opencv                         3.4.2  py37h6fd60c2_0  pkgs/main
+opencv                         4.0.1  py38h2a7c758_0  pkgs/main
+opencv                         4.5.4 py310hadfdc90_1  pkgs/main
+opencv                         4.5.4 py310hc26a207_2  pkgs/main
+opencv                         4.5.4 py310hc26a207_3  pkgs/main
+opencv                         4.5.4  py37h22b9916_2  pkgs/main
+opencv                         4.5.4  py37h22b9916_3  pkgs/main
+opencv                         4.5.4  py37h4fe8980_1  pkgs/main
+opencv                         4.5.4  py38h22b9916_2  pkgs/main
+opencv                         4.5.4  py38h22b9916_3  pkgs/main
+opencv                         4.5.4  py38h4fe8980_1  pkgs/main
+opencv                         4.5.4  py39h22b9916_2  pkgs/main
+opencv                         4.5.4  py39h22b9916_3  pkgs/main
+opencv                         4.5.4  py39h4fe8980_1  pkgs/main
+opencv                         4.5.5 py310h1e0e658_1  pkgs/main
+opencv                         4.5.5 py310h1e0e658_2  pkgs/main
+opencv                         4.5.5 py310h1e0e658_3  pkgs/main
+opencv                         4.5.5 py310h42e1cb5_0  pkgs/main
+opencv                         4.5.5 py310he826a15_4  pkgs/main
+opencv                         4.5.5  py37h09de659_1  pkgs/main
+opencv                         4.5.5  py37h09de659_2  pkgs/main
+opencv                         4.5.5  py37h09de659_3  pkgs/main
+opencv                         4.5.5  py37h3ca8ada_0  pkgs/main
+opencv                         4.5.5  py37h697d983_4  pkgs/main
+opencv                         4.5.5  py38h09de659_1  pkgs/main
+opencv                         4.5.5  py38h09de659_2  pkgs/main
+opencv                         4.5.5  py38h09de659_3  pkgs/main
+opencv                         4.5.5  py38h3ca8ada_0  pkgs/main
+opencv                         4.5.5  py38h697d983_4  pkgs/main
+opencv                         4.5.5  py39h09de659_1  pkgs/main
+opencv                         4.5.5  py39h09de659_2  pkgs/main
+opencv                         4.5.5  py39h09de659_3  pkgs/main
+opencv                         4.5.5  py39h3ca8ada_0  pkgs/main
+opencv                         4.5.5  py39h697d983_4  pkgs/main
+opencv                         4.6.0 py310h4ed8f06_3  pkgs/main
+opencv                         4.6.0 py310ha36de5b_5  pkgs/main
+opencv                         4.6.0 py310ha7641e4_0  pkgs/main
+opencv                         4.6.0 py310ha7641e4_1  pkgs/main
+opencv                         4.6.0 py310ha7641e4_2  pkgs/main
+opencv                         4.6.0 py311h5d08a89_5  pkgs/main
+opencv                         4.6.0 py311h9284175_1  pkgs/main
+opencv                         4.6.0 py311heda8569_3  pkgs/main
+opencv                         4.6.0 py312h14b9924_5  pkgs/main
+opencv                         4.6.0  py37h104de81_0  pkgs/main
+opencv                         4.6.0  py37h104de81_1  pkgs/main
+opencv                         4.6.0  py37h104de81_2  pkgs/main
+opencv                         4.6.0  py37hf11a4ad_3  pkgs/main
+opencv                         4.6.0  py38h104de81_0  pkgs/main
+opencv                         4.6.0  py38h104de81_1  pkgs/main
+opencv                         4.6.0  py38h104de81_2  pkgs/main
+opencv                         4.6.0  py38ha36de5b_5  pkgs/main
+opencv                         4.6.0  py38hf11a4ad_3  pkgs/main
+opencv                         4.6.0  py39h104de81_0  pkgs/main
+opencv                         4.6.0  py39h104de81_1  pkgs/main
+opencv                         4.6.0  py39h104de81_2  pkgs/main
+opencv                         4.6.0  py39ha36de5b_5  pkgs/main
+opencv                         4.6.0  py39hf11a4ad_3  pkgs/main
+opencv                        4.10.0 py310h049faa4_1  pkgs/main
+opencv                        4.10.0 py310h28596fa_7  pkgs/main
+opencv                        4.10.0 py310h49f5643_5  pkgs/main
+opencv                        4.10.0 py310h4e21365_2  pkgs/main
+opencv                        4.10.0 py310h545ae1a_3  pkgs/main
+opencv                        4.10.0 py310h545ae1a_4  pkgs/main
+opencv                        4.10.0 py310h6cb580c_6  pkgs/main
+opencv                        4.10.0 py310hd762f8c_0  pkgs/main
+opencv                        4.10.0 py311h28596fa_7  pkgs/main
+opencv                        4.10.0 py311h2e2a647_1  pkgs/main
+opencv                        4.10.0 py311h49f5643_5  pkgs/main
+opencv                        4.10.0 py311h545ae1a_3  pkgs/main
+opencv                        4.10.0 py311h545ae1a_4  pkgs/main
+opencv                        4.10.0 py311h66e330a_0  pkgs/main
+opencv                        4.10.0 py311h6cb580c_6  pkgs/main
+opencv                        4.10.0 py311h70350e2_2  pkgs/main
+opencv                        4.10.0 py312h28596fa_7  pkgs/main
+opencv                        4.10.0 py312h49f5643_5  pkgs/main
+opencv                        4.10.0 py312h4ccfa20_0  pkgs/main
+opencv                        4.10.0 py312h510b3e4_1  pkgs/main
+opencv                        4.10.0 py312h545ae1a_3  pkgs/main
+opencv                        4.10.0 py312h545ae1a_4  pkgs/main
+opencv                        4.10.0 py312h6cb580c_6  pkgs/main
+opencv                        4.10.0 py312hfc4d47f_2  pkgs/main
+opencv                        4.10.0 py313h57fc672_5  pkgs/main
+opencv                        4.10.0 py313h5e5d4bf_1  pkgs/main
+opencv                        4.10.0 py313h8241d7d_2  pkgs/main
+opencv                        4.10.0 py313h8241d7d_3  pkgs/main
+opencv                        4.10.0 py313h8241d7d_4  pkgs/main
+opencv                        4.10.0 py313hba024fa_7  pkgs/main
+opencv                        4.10.0 py313hdb38308_6  pkgs/main
+opencv                        4.10.0  py38hd762f8c_0  pkgs/main
+opencv                        4.10.0  py39h049faa4_1  pkgs/main
+opencv                        4.10.0  py39h28596fa_7  pkgs/main
+opencv                        4.10.0  py39h49f5643_5  pkgs/main
+opencv                        4.10.0  py39h4e21365_2  pkgs/main
+opencv                        4.10.0  py39h545ae1a_3  pkgs/main
+opencv                        4.10.0  py39h545ae1a_4  pkgs/main
+opencv                        4.10.0  py39h6cb580c_6  pkgs/main
+opencv                        4.10.0  py39hd762f8c_0  pkgs/main
+opencv                        4.12.0 py310h42193b7_1  pkgs/main
+opencv                        4.12.0 py310h6fcf9f4_0  pkgs/main
+opencv                        4.12.0 py311h42193b7_1  pkgs/main
+opencv                        4.12.0 py311h6fcf9f4_0  pkgs/main
+opencv                        4.12.0 py312h42193b7_1  pkgs/main
+opencv                        4.12.0 py312h6fcf9f4_0  pkgs/main
+opencv                        4.12.0 py313h11e3bfe_0  pkgs/main
+opencv                        4.12.0 py313h42193b7_1  pkgs/main
+opencv                        4.12.0 py314hb888075_1  pkgs/main
+opencv                        4.12.0 py314hf674485_0  pkgs/main
+opencv                        4.12.0  py39h6fcf9f4_0  pkgs/main
+opencv                        4.13.0 py310hb8ec502_0  pkgs/main
+opencv                        4.13.0 py310he37f867_1  pkgs/main
+opencv                        4.13.0 py311hb8ec502_0  pkgs/main
+opencv                        4.13.0 py311he37f867_1  pkgs/main
+opencv                        4.13.0 py312hb8ec502_0  pkgs/main
+opencv                        4.13.0 py312he37f867_1  pkgs/main
+opencv                        4.13.0 py313hb8ec502_0  pkgs/main
+opencv                        4.13.0 py313he37f867_1  pkgs/main
+
+(base) C:\Users\Attar Ulfi>conda info
+
+     active environment : base
+    active env location : C:\Users\Attar Ulfi\anaconda3
+            shell level : 1
+       user config file : C:\Users\Attar Ulfi\.condarc
+ populated config files : C:\Users\Attar Ulfi\anaconda3\.condarc
+                          C:\Users\Attar Ulfi\anaconda3\condarc.d\anaconda-auth.yml
+          conda version : 25.11.1
+    conda-build version : 25.11.1
+         python version : 3.13.9.final.0
+                 solver : libmamba (default)
+       virtual packages : __archspec=1=skylake
+                          __conda=25.11.1=0
+                          __win=10.0.19045=0
+       base environment : C:\Users\Attar Ulfi\anaconda3  (writable)
+      conda av data dir : C:\Users\Attar Ulfi\anaconda3\etc\conda
+  conda av metadata url : None
+           channel URLs : https://repo.anaconda.com/pkgs/main/win-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/win-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+                          https://repo.anaconda.com/pkgs/msys2/win-64
+                          https://repo.anaconda.com/pkgs/msys2/noarch
+          package cache : C:\Users\Attar Ulfi\anaconda3\pkgs
+                          C:\Users\Attar Ulfi\.conda\pkgs
+                          C:\Users\Attar Ulfi\AppData\Local\conda\conda\pkgs
+       envs directories : C:\Users\Attar Ulfi\anaconda3\envs
+                          C:\Users\Attar Ulfi\.conda\envs
+                          C:\Users\Attar Ulfi\AppData\Local\conda\conda\envs
+               platform : win-64
+             user-agent : conda/25.11.1 requests/2.32.5 CPython/3.13.9 Windows/10 Windows/10.0.19045 solver/libmamba conda-libmamba-solver/25.11.0 libmambapy/2.3.2 aau/0.7.5 c/. s/. e/.
+          administrator : False
+             netrc file : None
+           offline mode : False
+
+
+(base) C:\Users\Attar Ulfi>conda create --name coba python
+3 channel Terms of Service accepted
+Retrieving notices: failed
+
+CondaError: KeyboardInterrupt
+
+Terminate batch job (Y/N)? n
+
+(base) C:\Users\Attar Ulfi>conda create --name coba python=3.6
+3 channel Terms of Service accepted
+Retrieving notices: done
+WARNING conda.core.prefix_data:validate_path(332): Environment paths should not contain spaces. Prefix: 'C:\Users\Attar Ulfi\anaconda3\envs\coba'
+WARNING: A conda environment already exists at 'C:\Users\Attar Ulfi\anaconda3\envs\coba'
+
+Remove existing environment?
+This will remove ALL directories contained within this specified prefix directory, including any other conda environments.
+
+ (y/[n])? n
+
+
+CondaSystemExit: Exiting.
+
+
+(base) C:\Users\Attar Ulfi>conda create  --name coba_coba python
+3 channel Terms of Service accepted
+Retrieving notices: done
+WARNING conda.core.prefix_data:validate_path(332): Environment paths should not contain spaces. Prefix: 'C:\Users\Attar Ulfi\anaconda3\envs\coba_coba'
+Channels:
+ - defaults
+Platform: win-64
+Collecting package metadata (repodata.json): done
+Solving environment: done
+
+
+==> WARNING: A newer version of conda exists. <==
+    current version: 25.11.1
+    latest version: 26.1.1
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: C:\Users\Attar Ulfi\anaconda3\envs\coba_coba
+
+  added / updated specs:
+    - python
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2025.12.2  |       haa95532_0         125 KB
+    libexpat-2.7.4             |       hd7fb8db_0         121 KB
+    packaging-25.0             |  py314haa95532_1         195 KB
+    pip-26.0.1                 |     pyhc872135_0         1.1 MB
+    python-3.14.3              |h653fc63_101_cp314        16.3 MB
+    python_abi-3.14            |          2_cp314           6 KB
+    setuptools-80.10.2         |  py314haa95532_0         1.8 MB
+    tzdata-2026a               |       he532380_0         117 KB
+    wheel-0.46.3               |  py314haa95532_0          95 KB
+    ------------------------------------------------------------
+                                           Total:        19.8 MB
+
+The following NEW packages will be INSTALLED:
+
+  bzip2              pkgs/main/win-64::bzip2-1.0.8-h2bbff1b_6
+  ca-certificates    pkgs/main/win-64::ca-certificates-2025.12.2-haa95532_0
+  libexpat           pkgs/main/win-64::libexpat-2.7.4-hd7fb8db_0
+  libffi             pkgs/main/win-64::libffi-3.4.4-hd77b12b_1
+  libmpdec           pkgs/main/win-64::libmpdec-4.0.0-h827c3e9_0
+  libzlib            pkgs/main/win-64::libzlib-1.3.1-h02ab6af_0
+  lz4-c              pkgs/main/win-64::lz4-c-1.9.4-h2bbff1b_1
+  openssl            pkgs/main/win-64::openssl-3.5.5-hbb43b14_0
+  packaging          pkgs/main/win-64::packaging-25.0-py314haa95532_1
+  pip                pkgs/main/noarch::pip-26.0.1-pyhc872135_0
+  python             pkgs/main/win-64::python-3.14.3-h653fc63_101_cp314
+  python_abi         pkgs/main/win-64::python_abi-3.14-2_cp314
+  setuptools         pkgs/main/win-64::setuptools-80.10.2-py314haa95532_0
+  sqlite             pkgs/main/win-64::sqlite-3.51.1-hda9a48d_0
+  tk                 pkgs/main/win-64::tk-8.6.15-hf199647_0
+  tzdata             pkgs/main/noarch::tzdata-2026a-he532380_0
+  ucrt               pkgs/main/win-64::ucrt-10.0.22621.0-haa95532_0
+  vc                 pkgs/main/win-64::vc-14.3-h2df5915_10
+  vc14_runtime       pkgs/main/win-64::vc14_runtime-14.44.35208-h4927774_10
+  vs2015_runtime     pkgs/main/win-64::vs2015_runtime-14.44.35208-ha6b5a95_10
+  wheel              pkgs/main/win-64::wheel-0.46.3-py314haa95532_0
+  xz                 pkgs/main/win-64::xz-5.8.2-h53af0af_0
+  zlib               pkgs/main/win-64::zlib-1.3.1-h02ab6af_0
+  zstd               pkgs/main/win-64::zstd-1.5.7-h56299aa_0
+
+
+Proceed ([y]/n)? =
+Invalid choice: =
+Proceed ([y]/n)?
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use
+#
+#     $ conda activate coba_coba
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>^Z^Z^Z^Z^Z^Z^Z^Zzz
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>
+(base) C:\Users\Attar Ulfi>conda env list
+
+# conda environments:
+#
+# * -> active
+# + -> frozen
+base                 *   C:\Users\Attar Ulfi\anaconda3
+coba                     C:\Users\Attar Ulfi\anaconda3\envs\coba
+coba_coba                C:\Users\Attar Ulfi\anaconda3\envs\coba_coba
+
+
+(base) C:\Users\Attar Ulfi>conda activate
+
+(base) C:\Users\Attar Ulfi>
+
+(base) C:\Users\Attar Ulfi>conda activate coba
+
+(coba) C:\Users\Attar Ulfi>conda list
+# packages in environment at C:\Users\Attar Ulfi\anaconda3\envs\coba:
+#
+# Name                     Version          Build            Channel
+blas                       1.0              mkl
+certifi                    2021.5.30        py36haa95532_0
+hdf5                       1.8.20           hac2f561_1
+icc_rt                     2022.1.0         h6049295_2
+intel-openmp               2025.0.0         haa95532_1164
+jpeg                       9f               ha349fce_0
+lerc                       3.0              hd77b12b_0
+libdeflate                 1.17             h2bbff1b_1
+libopencv                  3.4.2            h20b85fd_0
+libpng                     1.6.55           h2854ad3_0
+libtiff                    4.5.1            hd77b12b_0
+libzlib                    1.3.1            h02ab6af_0
+lz4-c                      1.9.4            h2bbff1b_1
+mkl                        2020.2           256
+mkl-service                2.3.0            py36h196d8e1_0
+mkl_fft                    1.3.0            py36h46781fe_0
+mkl_random                 1.1.1            py36h47e9c7a_0
+numpy                      1.19.2           py36hadc3359_0
+numpy-base                 1.19.2           py36ha3acd2a_0
+opencv                     3.4.2            py36h40b0b35_0
+pip                        21.2.2           py36haa95532_0
+py-opencv                  3.4.2            py36hc319ecb_0
+python                     3.6.13           h3758d61_0
+setuptools                 58.0.4           py36haa95532_0
+six                        1.16.0           pyhd3eb1b0_1
+sqlite                     3.51.1           hda9a48d_0
+ucrt                       10.0.22621.0     haa95532_0
+vc                         14.3             h2df5915_10
+vc14_runtime               14.44.35208      h4927774_10
+vs2015_runtime             14.44.35208      ha6b5a95_10
+wheel                      0.37.1           pyhd3eb1b0_0
+wincertstore               0.2              py36h7fe50ca_0
+xz                         5.8.2            h53af0af_0
+zlib                       1.3.1            h02ab6af_0
+zstd                       1.5.7            h56299aa_0
+
+(coba) C:\Users\Attar Ulfi>python
+Python 3.6.13 |Anaconda, Inc.| (default, Mar 16 2021, 11:37:27) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import cv2
+>>> cv2.__version__^Z
+  File "<stdin>", line 1
+    cv2.__version__→
+                   ^
+SyntaxError: invalid syntax
+>>> v2._version_
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'v2' is not defined
+>>> cv2._version_
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: module 'cv2' has no attribute '_version_'
+>>> v2.__version__
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'v2' is not defined
+>>> cv2.__version__
+'3.4.2'
+>>> ^Z
+
+
+(coba) C:\Users\Attar Ulfi>conda info --envs
+
+# conda environments:
+#
+# * -> active
+# + -> frozen
+base                     C:\Users\Attar Ulfi\anaconda3
+coba                 *   C:\Users\Attar Ulfi\anaconda3\envs\coba
+coba_coba                C:\Users\Attar Ulfi\anaconda3\envs\coba_coba
+
+
+(coba) C:\Users\Attar Ulfi>conda activate coba_coba
+
+(coba_coba) C:\Users\Attar Ulfi>conda deactivate
+
+(coba) C:\Users\Attar Ulfi>conda deactivate
+
+(base) C:\Users\Attar Ulfi>
